@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SushantCoder
 - 👀 I’m interested in Development
-- 🌱 I’m currently doing Bachelor of technology KUK.
-- 💞️ I’m looking to collaborate on development of an project
+- 🌱 I’m currently doing Bachelor of technology from KUK.
+- 💞️ I’m looking to collaborate on development project
 - 📫 You can reach me on codechef https://www.codechef.com/users/sushant_code, HackerRank https://www.hackerrank.com/ersushantshandi1 or on leetCode https://leetcode.com/Sushant_code/
 
 
